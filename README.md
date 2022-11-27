@@ -42,5 +42,8 @@
 ### Построить графики зависимости количества эпох от ошибки обучения.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133373-98e248ad-79c4-4771-97d7-5e10df9d2788.png)
+![image](https://user-images.githubusercontent.com/114469025/204133418-28563dbd-eee7-480d-a142-54154d0e86ce.png)
+![image](https://user-images.githubusercontent.com/114469025/204133477-2bc8d761-a469-41dc-9a98-7fb12dc3adb6.png)
+![image](https://user-images.githubusercontent.com/114469025/204133444-2de1c229-429d-44a9-8211-bd4df2456f12.png)
 
 Количество эпох обучения зависит от
