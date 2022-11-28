@@ -126,7 +126,7 @@ public class Perceptron : MonoBehaviour {
 }
 ```
 
-- OR
+- OR 
 
 ![image](https://user-images.githubusercontent.com/114469025/204133054-81874c49-8423-41b4-83b2-6db41cde250d.png)
 
