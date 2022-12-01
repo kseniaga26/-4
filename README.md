@@ -127,19 +127,19 @@ public class Perceptron : MonoBehaviour {
 ```
 
 - OR 
-Корректность работы: перцептрон обучился на 5 эпохе. Выводит правильные ответы.
+Корректность работы: перцептрон обучился на 3 эпохе. Работает корректно.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133054-81874c49-8423-41b4-83b2-6db41cde250d.png)
 
 ![image](https://user-images.githubusercontent.com/114469025/204133063-7d2bca43-7c9e-4527-bea4-7a9370d26531.png)
 
 - AND
-Корректность работы: перцептрон обучился на 5 эпохе. Выводит правильные ответы.
+Корректность работы: перцептрон обучился на 6 эпохе. Работает корректно.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133079-14df3bf6-fe60-4dea-8d4f-01fb81d705d8.png)
 
 - NAND
-Корректность работы: перцептрон обучился на 5 эпохе. Выводит правильные ответы.
+Корректность работы: перцептрон обучился на 5 эпохе. Работает корректно.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133114-3d87e980-9f0b-402d-a6aa-0435d465a3be.png)
 
@@ -152,9 +152,7 @@ public class Perceptron : MonoBehaviour {
 ### Построить графики зависимости количества эпох от ошибки обучения.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133373-98e248ad-79c4-4771-97d7-5e10df9d2788.png)
-![image](https://user-images.githubusercontent.com/114469025/204133418-28563dbd-eee7-480d-a142-54154d0e86ce.png)
-![image](https://user-images.githubusercontent.com/114469025/204133477-2bc8d761-a469-41dc-9a98-7fb12dc3adb6.png)
-![image](https://user-images.githubusercontent.com/114469025/204133444-2de1c229-429d-44a9-8211-bd4df2456f12.png)
+![image](https://user-images.githubusercontent.com/114469025/205047094-1ea5f27a-d249-4db3-9504-d2ae7a7c4b53.png)
 
 Количество эпох обучения зависит от ошибки, которую выдает программа на тестовом наборе данных.  что даже если на какой-то эпохе перцептрон удачно выполнил задачу, лучше взять чуть больше эпох обучения для избежания появления редких ошибок.
 
