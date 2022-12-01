@@ -127,6 +127,7 @@ public class Perceptron : MonoBehaviour {
 ```
 
 - OR 
+
 Корректность работы: перцептрон обучился на 3 эпохе. Работает корректно.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133054-81874c49-8423-41b4-83b2-6db41cde250d.png)
@@ -134,16 +135,19 @@ public class Perceptron : MonoBehaviour {
 ![image](https://user-images.githubusercontent.com/114469025/204133063-7d2bca43-7c9e-4527-bea4-7a9370d26531.png)
 
 - AND
+
 Корректность работы: перцептрон обучился на 6 эпохе. Работает корректно.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133079-14df3bf6-fe60-4dea-8d4f-01fb81d705d8.png)
 
 - NAND
+
 Корректность работы: перцептрон обучился на 3 эпохе. Работает корректно.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133114-3d87e980-9f0b-402d-a6aa-0435d465a3be.png)
 
 - XOR
+
 Корректность работы: перцептрон не обучается при любом количестве эпох и значение totalError так же равно 4. Так как из информации, данной в лекции и найденной в интернете, ясно что однослойного перцептрона для решения задачи XOR не достаточно.
 
 ![image](https://user-images.githubusercontent.com/114469025/204133104-28f4476e-193d-44e3-a885-35173c21538e.png)
