@@ -154,9 +154,9 @@ public class Perceptron : MonoBehaviour {
 ![image](https://user-images.githubusercontent.com/114469025/204133373-98e248ad-79c4-4771-97d7-5e10df9d2788.png)
 ![image](https://user-images.githubusercontent.com/114469025/205047094-1ea5f27a-d249-4db3-9504-d2ae7a7c4b53.png)
 ![image](https://user-images.githubusercontent.com/114469025/205047746-71f00049-11af-47f4-87cb-35730ac03342.png)
-![image](https://user-images.githubusercontent.com/114469025/205048005-c41cb6b0-4365-477b-850b-a65673af5934.png)
-
-
+![image](https://user-images.githubusercontent.com/114469025/205048267-8df1ec83-417d-44dd-b262-7d6246049e67.png)
 
 Количество эпох обучения зависит от ошибки, которую выдает программа на тестовом наборе данных.  что даже если на какой-то эпохе перцептрон удачно выполнил задачу, лучше взять чуть больше эпох обучения для избежания появления редких ошибок.
 
+## Задание 3
+### Построить графики зависимости количества эпох от ошибки обучения.
