@@ -153,3 +153,4 @@ public class Perceptron : MonoBehaviour {
 ![image](https://user-images.githubusercontent.com/114469025/204133444-2de1c229-429d-44a9-8211-bd4df2456f12.png)
 
 Количество эпох обучения зависит от
+
